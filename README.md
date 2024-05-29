@@ -1,6 +1,6 @@
 <p align="center">
-	<img width="130px;" src="https://game.42sp.org.br/static/assets/images/42_logo_black.svg" align="center" alt="42" />&nbsp;&nbsp;&nbsp;
-	<img width="130px" src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" align="center" alt="ft_printf" />
+	<img width="130px;" src="https://raw.githubusercontent.com/iwillenshofer/resources/main/images/42_logo_black.svg" align="center" alt="42" />&nbsp;&nbsp;&nbsp;
+	<img width="130px" src="https://raw.githubusercontent.com/iwillenshofer/resources/main/achievements/ft_printf.png" align="center" alt="ft_printf" />
 	<h1 align="center">ft_printf</h1>
 </p>
 <p align="center">
@@ -25,7 +25,7 @@
 
 > _This project is pretty straightforward, you have to recode printf. You will learn what is and how to implement variadic functions. Once you validate it, you will reuse this function in your future projects._
 
-[Download the Subject ⤓](en.subject.pdf)
+
 
 <br>
 
