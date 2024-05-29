@@ -21,6 +21,8 @@
 </p>
 <br>
 
+<b><i>This is the old version of ft_printf that matches the curriculum in 2021.</i></b><br>
+
 > _This project is pretty straightforward, you have to recode printf. You will learn what is and how to implement variadic functions. Once you validate it, you will reuse this function in your future projects._
 
 [Download the Subject ⤓](en.subject.pdf)
